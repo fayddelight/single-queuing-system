@@ -1,9 +1,3 @@
-################################################
-# Veit Ebbers
-# 10/24/2022
-# Project 3
-################################################
-
 import pandas as pd
 import numpy as np
 import itertools
